@@ -3,6 +3,6 @@
     "dockerfilePath": "Dockerfile"
   },
   "start": {
-    "cmd": "n8n"
+    "cmd": "node ./packages/cli/bin/n8n"
   }
 }
